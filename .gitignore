@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+credentials/
+data/raw/
+data/processed/
+.vscode/
+notebooks/notebook_checkpoints/
+notebooks/electronics_issue_bucket_checkpoint/
+notebooks/validation_sample_df.csv
+notebooks/false_negative_validation_sample_df.csv
+notebooks/labeled_validation_sample_df.csv
+notebooks/labeled_false_negative_validation_sample_df.csv
+*.pkl
+*.parquet

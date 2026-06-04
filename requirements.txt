@@ -1,0 +1,16 @@
+jupyter
+ipykernel
+python-dotenv
+pandas
+pyarrow
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-storage
+db-dtypes
+matplotlib
+seaborn
+duckdb
+polars
+requests
+scikit-learn
+pandas-gbq
