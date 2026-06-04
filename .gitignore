@@ -3,6 +3,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .DS_Store
+.env
+.env.*
 credentials/
 data/raw/
 data/processed/
