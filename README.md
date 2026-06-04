@@ -8,6 +8,21 @@ This project combines :
 - **Jupyter notebooks** for quality analysis and advanced Electronics NLP
 - **Looker Studio dashboards** for business-facing reporting and exploration
 
+## Project at a Glance
+
+- Built a cloud-based review analytics pipeline across **5 Amazon categories**
+- Processed **182.0M raw reviews**, with **180.5M filtered reviews** retained after category-product alignment
+- Evaluated **11.47M filtered products**, down from **11.63M original category-scope products** after category-rule filtering
+- Built the final general-analysis layer on **178.7M non-duplicate reviews**
+- Produced category-level reporting on **150.6M text-ready reviews** and **116.0M price-ready reviews**
+- Flagged **22,213 products** for dissatisfaction and operational risk review
+- Built an Electronics text foundation from **41.97M Electronics reviews**
+- Built an Electronics text foundation from **41.97M Electronics review-level records** and aggregated it into **36,622 aggregated Electronics documents** for product-level NLP analysis.
+- Retained **35,211 comparison-ready Electronics documents** after restricting to target sentiment cohorts, usable price bands, evidence-backed products and text-modeling eligibility
+- Finalized **top 10 validated Electronics issue themes**
+- Achieved **95.9% to 100% precision** across manually reviewed issue-theme buckets
+- Delivered **8 Looker Studio dashboard pages** for final reporting
+
 ## Project Scope
 
 ### Categories analyzed
