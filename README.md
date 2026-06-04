@@ -73,6 +73,7 @@ Amazon Reviews Intelligence/
 │   ├── 12_build_business_strategy_tables.sql
 │   ├── 13_build_reporting_output_tables.sql
 │   └── 14_build_electronics_text_foundation.sql
+├── .env/
 ├── credentials/
 ├── requirements.txt
 └── .gitignore
