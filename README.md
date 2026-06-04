@@ -1,4 +1,4 @@
-# Amazon Reviews : Product Risk and Dissatisfaction Patterns
+# Amazon Reviews Analysis : Customer Dissatisfaction and Product Risks
 
 A cloud-based analytics project built on the **Amazon Reviews 2023** dataset to identify **customer dissatisfaction patterns, product risk signals, review trust behavior, content readiness gaps and category-level business priorities** across selected Amazon product categories.
 
@@ -271,7 +271,7 @@ The final reporting layer is designed for a multi-page Looker Studio dashboard c
 The final Looker Studio reporting layer connects category-level dissatisfaction monitoring with product prioritization and deeper Electronics issue analysis.
 
 ### Product Risk Prioritization
-This page highlights high-risk products using dissatisfaction rate, review volume, verified purchase behavior, and evidence-based priority signals.
+This page highlights high-risk products using dissatisfaction rate, review volume, verified purchase behavior and evidence-based priority signals.
 
 ![Product Risk Prioritization](./looker%20dashboards/product_risk_prioritization.jpg)
 
