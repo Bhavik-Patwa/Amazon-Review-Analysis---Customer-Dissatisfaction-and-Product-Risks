@@ -75,7 +75,7 @@ Amazon Reviews Intelligence/
 │   └── 14_build_electronics_text_foundation.sql
 ├── looker dashboards/
 │   └── Looker Report.pdf
-├── .env/
+├── .env
 ├── credentials/
 ├── requirements.txt
 └── .gitignore
@@ -265,6 +265,20 @@ The final reporting layer is designed for a multi-page Looker Studio dashboard c
 - Electronics Customer Dissatisfaction Themes
 - Electronics Risk by Price & Priority
 - Electronics Dissatisfaction Pattern Relationships
+
+## Dashboard Highlights
+
+The final Looker Studio reporting layer connects category-level dissatisfaction monitoring with product prioritization and deeper Electronics issue analysis.
+
+### Product Risk Prioritization
+This page highlights high-risk products using dissatisfaction rate, review volume, verified purchase behavior, and evidence-based priority signals.
+
+![Product Risk Prioritization](./looker%20dashboards/product_risk_prioritization.jpg)
+
+### Electronics Dissatisfaction Pattern Relationships
+This page visualizes how Electronics issue themes co-occur across dissatisfied documents, helping surface broader failure patterns rather than isolated complaints.
+
+![Electronics Dissatisfaction Pattern Relationships](./looker%20dashboards/electronics_pattern_relationships.jpg)
 
 ## Key Business Findings
 
